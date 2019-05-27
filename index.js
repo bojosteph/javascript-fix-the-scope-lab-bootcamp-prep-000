@@ -4,8 +4,8 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(cat) {
-  animal = myAnimal(cat)
+function yourAnimal() {
+  let animal = 'cat'
   return animal
 }
 
